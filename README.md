@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ilgimdar
-- 👀 I’m interested in backend and olimpiad programming
-- 🌱 I’m currently learning Unix, backend and app development
-- 💞️ I’m looking to collaborate on -
+- 👋 Hi, I’m Ildar Gimadeev!
+- 👀 I’m interested in backend Python development
+- 🌱 I’m currently learning Unix, Django and SQL.
 - 📫 How to reach me @ildargimadeev on telegram
 
 
